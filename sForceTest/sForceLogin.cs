@@ -22,8 +22,8 @@ namespace sForceTest
 
         public bool Login()
         {
-            string username = "cswany@kinetixhr.com";
-            string password = "HikariCat18o1EEyBAtvN0NYh01v24mlLZv";
+            string username = 
+            string password = 
             BasicHttpBinding binding1 = new BasicHttpBinding();
             binding1.Security.Mode = BasicHttpSecurityMode.Transport;
 
